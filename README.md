@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Karina!
+- 👋 Hi, I'm Karyna!
 - 👀 I'm interested in web development
 - 🌱 I'm currently learning how to make websites and applications
 - 💞️ Looking for my first job
