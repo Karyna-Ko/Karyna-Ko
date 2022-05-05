@@ -2,7 +2,9 @@
 - 👀 I'm interested in web development
 - 🌱 I'm currently learning how to make websites and applications
 - 💞️ Looking for my first job
-- 📫 You can contact me using the links in the portfolio
+- 📫 You can contact me using the links 
+- https://www.facebook.com/karyna.korshak.31
+- 
 - Thanks for visiting my web developer portfolio!
 
 <!---
