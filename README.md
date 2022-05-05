@@ -2,11 +2,11 @@
 - 👀 I'm interested in web development
 - 🌱 I'm currently learning how to make websites and applications
 - 💞️ Looking for my first job
-- 📫 You can contact me using the links 
-- email: karina.korshak@gmail.com
-- [facebook](https://www.facebook.com/karyna.korshak.31)
-- [instagram](https://www.instagram.com/?hl=ru)
-- [telegram](https://t.me/karyna_korshak)
+- 📫 You can contact me using the links:
+  - email: karina.korshak@gmail.com
+  - [facebook](https://www.facebook.com/karyna.korshak.31)
+  - [instagram](https://www.instagram.com/?hl=ru)
+  - [telegram](https://t.me/karyna_korshak)
 
 - Thanks for visiting!
 
