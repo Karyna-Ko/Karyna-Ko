@@ -1,12 +1,14 @@
-- 👋 Hi, I'm Karyna!
-- 👀 I'm interested in web development
-- 🌱 I'm currently learning how to make websites and applications
+- 👋 Hi there, I'm Karyna!
+- 👀 I'm a Frontend developer based in Ukraine, Dnipro
+- 💻 I use daily: HTML, CSS, Javascript, ReactJS, Redux, Typescript, Figma
+- 🌱 I'm currently learning React, Redux and Typescript
 - 💞️ Looking for my first job
-- 📫 You can contact me using the links:
-  - email: karina.korshak@gmail.com
+- 📫 How to reach me:
+  - [email](karina.korshak@gmail.com)
   - [facebook](https://www.facebook.com/karyna.korshak.31)
   - [instagram](https://www.instagram.com/?hl=ru)
   - [telegram](https://t.me/karyna_korshak)
+  - [linkedin](https://www.linkedin.com/in/karyna-korshak-1b2b59252/)
 
 - Thanks for visiting!
 
