@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning React, Redux and Typescript
 - 💞️ Looking for my first job
 - 📫 How to reach me:
-  - [email](karina.korshak@gmail.com)
+  - e-mail: karina.korshak@gmail.com
   - [facebook](https://www.facebook.com/karyna.korshak.31)
   - [instagram](https://www.instagram.com/?hl=ru)
   - [telegram](https://t.me/karyna_korshak)
